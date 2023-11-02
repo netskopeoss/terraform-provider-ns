@@ -7,7 +7,6 @@ require (
 	github.com/ericlagergren/decimal v0.0.0-20221120152707-495c53812d05
 	github.com/hashicorp/terraform-plugin-framework v1.3.5
 	github.com/hashicorp/terraform-plugin-go v0.18.0
-	github.com/spyzhov/ajson v0.9.0
 )
 
 require (
@@ -54,7 +53,7 @@ require (
 	golang.org/x/net v0.11.0 // indirect
 	golang.org/x/sys v0.9.0 // indirect
 	golang.org/x/text v0.10.0 // indirect
-	google.golang.org/grpc v1.56.1 // indirect
+	google.golang.org/grpc v1.56.3 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 )
 
